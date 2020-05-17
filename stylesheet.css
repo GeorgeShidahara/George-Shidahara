@@ -1,0 +1,118 @@
+body{
+    text-align: center;
+    font-family: 'Lato', 'Noto Sans JP', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+
+}
+
+header{
+    text-align: center;
+
+
+}
+
+.title{
+    background-color: rgb(27, 120, 146);
+    color: white;
+    font-family:  fantasy;
+    font-size: auto;
+    margin: 0px;
+    /* padding: 20px; */
+    padding-top: 30px;
+    
+}
+
+.title p{
+    background-color: rgb(27, 120, 146);
+    color: white;
+    font-family: fantasy;
+    font-size: auto;
+    /* font-weight: normal; */
+    margin: 0px;
+    /* padding: 20px; */
+    padding-bottom: 20px;
+
+}
+
+h2{
+  padding: 20px;
+}
+
+
+p{
+    font-size: auto;
+    margin: 0;
+
+}
+
+.name{
+    color: red;
+}
+
+.plorog{
+    font-size: 12px;
+    color: black;
+    font-weight: lighter;
+    line-height: 1.8;
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.name2{
+    color: black;
+    background-color: rgba(210, 211, 211, 0.667);
+}
+
+
+
+.profil_1{
+    margin: 50px;
+    font-size: 15px;
+    /* background-color: rgb(27, 120, 146); */
+    /* color: white; */
+
+    width: auto;
+    
+}
+
+.profil_2{
+    display: flex;
+    background-color: white;
+    line-height: 1.8;
+    /* margin-right: auto;
+    margin-left: auto;
+    align-items: center; */
+
+
+
+
+}
+
+.profil_2 >section{
+    padding:40px;
+    margin: 20px 20px;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    /* display: inline-block; */
+}
+
+.profil_2 img{
+    border-radius: 30px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(27, 120, 146);
+ 
+}
+
+ /* .profil_2 ul{
+    list-style-type: none;
+    text-align: center;
+
+}  */
+
+.profil_2 p{
+    list-style-type: none;
+    text-align: center;
+}
